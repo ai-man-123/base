@@ -34,7 +34,7 @@ const exif = new Exif();
 conn.connect()
 const xinz = conn.xinz
 
-fake = "© 𝐗𝐢𝐧𝐳-𝐓𝐞𝐚𝐦"
+fake = "© Aiman"
 fakeimage = fs.readFileSync("./media/aqul.jpeg")
 prefix = 'z'
 blocked = []
