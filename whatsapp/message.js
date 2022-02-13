@@ -117,7 +117,7 @@ exports.FakeTokoForwarded = (from, teks, fake) => {
 						"jpegThumbnail": fs.readFileSync(`./media/aqul.jpeg`)
 					},
 					"title": fake,
-					"description": "Self Aqulzz nih Boss",
+					"description": "Self Aiman nih Boss",
 					"currencyCode": "IDR",
 					"priceAmount1000": "50000000",
 					"retailerId": "Self Bot",
@@ -143,7 +143,7 @@ exports.sendFakeToko = (from, teks, fake) => {
 						"jpegThumbnail": fs.readFileSync(`./media/aqul.jpeg`)
 					},
 					"title": fake,
-					"description": "Self Aqulzz nih Boss",
+					"description": "Self Aiman nih Boss",
 					"currencyCode": "IDR",
 					"priceAmount1000": "50000000",
 					"retailerId": "Self Bot",
